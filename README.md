@@ -1,6 +1,8 @@
 # flutterlistviewselection
 
-A new Flutter application.
+Learn how to work with Single selection and multi selection options in Flutter
+Watch here and subscribe
+(Youtube)[https://youtu.be/WC3dZMwLnko]
 
 ## Getting Started
 
